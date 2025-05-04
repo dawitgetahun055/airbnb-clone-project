@@ -7,6 +7,46 @@
 - Maintain visual consistency with a modern and appealing aesthetic
 - Prioritize performance and usability for both property seekers and owners
 
+### 🎨 Design Reference
+Visit the Figma design file here: [View Figma Design](https://www.figma.com/file/YOUR-FIGMA-FILE-LINK)
+
+---
+
+### 🎨 Color Styles Used
+
+- **Primary Color:** `#4F46E5` (Indigo 600)
+- **Secondary Color:** `#6366F1` (Indigo 500)
+- **Accent Color:** `#F59E0B` (Amber 500)
+- **Background:** `#FFFFFF` (White)
+- **Text Primary:** `#111827` (Gray 900)
+- **Text Secondary:** `#6B7280` (Gray 500)
+
+---
+
+### ✍️ Typography
+
+- **Font Family:** Inter, sans-serif
+- **Font Weights:**
+  - Regular: 400
+  - Medium: 500
+  - Semi-Bold: 600
+  - Bold: 700
+- **Font Sizes:**
+  - Body Text: 16px
+  - Headings (H1 - H4): 32px, 24px, 20px, 18px
+  - Buttons/Labels: 14px
+
+---
+
+### ❗ Why Identifying Design Properties Matters
+
+Identifying and documenting the design properties of a mockup ensures:
+- **Consistency:** Keeps the user interface cohesive across all pages and components.
+- **Efficiency:** Makes it easier for developers to implement the design without guessing.
+- **Collaboration:** Helps both designers and developers stay aligned with shared design guidelines.
+- **Scalability:** Supports future updates and additions without breaking the visual identity.
+
+Clear design properties are like a blueprint — they help bring the mockup to life exactly as envisioned.
 ---
 ### 🧩 Key Features to Implement
 
