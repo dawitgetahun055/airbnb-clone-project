@@ -85,6 +85,64 @@ Clear design properties are like a blueprint — they help bring the mockup to l
 
   A smooth, intuitive experience leads to more bookings and positive user feedback, both vital for the success of any booking platform.
 
-  
+  ## 👥 Project Roles and Responsibilities
+
+This section outlines the key roles in the **Airbnb Clone Project** and their responsibilities in ensuring the successful delivery of the product.
+
+---
+
+### 📌 Project Manager
+- Oversees the entire project from start to finish.
+- Ensures deadlines are met and resources are allocated efficiently.
+- Facilitates communication between team members and stakeholders.
+- Tracks progress and mitigates risks.
+
+### 🎨 Designers (UI/UX)
+- Create wireframes, prototypes, and visual designs using tools like Figma.
+- Ensure the product is user-friendly, accessible, and visually consistent.
+- Collaborate with developers to translate designs into code.
+- Continuously gather feedback to improve design quality.
+
+### 💻 Frontend Developers
+- Build the user interface using technologies like React, HTML, CSS, and JavaScript.
+- Implement responsive and interactive features.
+- Integrate with backend APIs to fetch and display data.
+- Ensure cross-browser compatibility and mobile responsiveness.
+
+### 🔧 Backend Developers
+- Develop server-side logic, databases, and APIs.
+- Ensure secure authentication, data storage, and retrieval.
+- Optimize application performance and scalability.
+- Work closely with frontend developers to provide data endpoints.
+
+### ✅ QA/Testers
+- Design and run manual and automated tests.
+- Identify bugs, issues, and areas for improvement.
+- Ensure that features meet quality and performance standards.
+- Provide feedback to developers before production releases.
+
+### 🚀 DevOps Engineers
+- Set up CI/CD pipelines and manage deployment environments.
+- Monitor application performance and infrastructure health.
+- Automate development workflows for speed and consistency.
+- Ensure availability, scalability, and rollback mechanisms.
+
+### 🧠 Product Owner
+- Defines the product vision and roadmap.
+- Prioritizes features and manages the product backlog.
+- Acts as the bridge between business goals and development.
+- Gathers feedback and adjusts priorities based on user needs.
+
+### 🔄 Scrum Master
+- Facilitates Agile ceremonies (e.g., daily stand-ups, sprint planning).
+- Removes blockers and helps the team maintain focus.
+- Coaches team members on Agile best practices.
+- Ensures continuous improvement through sprint retrospectives.
+
+---
+
+Each of these roles plays a vital part in delivering a high-quality Airbnb clone that meets user expectations and business objectives.
+
+
   
 
