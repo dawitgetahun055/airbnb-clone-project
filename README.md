@@ -139,6 +139,41 @@ This section outlines the key roles in the **Airbnb Clone Project** and their re
 - Coaches team members on Agile best practices.
 - Ensures continuous improvement through sprint retrospectives.
 
+## 🧩 UI Component Patterns
+
+This section outlines the key UI components we plan to build for the **Airbnb Clone Project**. These components are reusable and will ensure a consistent look and feel across the application.
+
+---
+
+### 🔝 Navbar
+- Displays the logo, navigation links (e.g., Explore, Bookings), and user profile/menu.
+- Stays fixed at the top for easy navigation.
+- Responsive design for both desktop and mobile views.
+
+---
+
+### 🏘️ Property Card
+- Used in the listing view to show brief information about each property.
+- Includes an image, title, location, rating, and price per night.
+- Clickable, leading to the detailed property view.
+
+---
+
+### 🦶 Footer
+- Placed at the bottom of all pages.
+- Contains links like About, Terms, Privacy, Contact, and social icons.
+- Provides branding and important legal/navigation information.
+
+---
+
+### 🛠️ More Components Coming Soon
+- **Search Bar**: For location and date input.
+- **Filter Panel**: Allows users to narrow down listings by type, price, etc.
+- **Booking Form**: Collects user input during checkout.
+- **Modal Windows**: Used for login/signup, date selection, etc.
+
+These components will be styled consistently and built to be easily reusable throughout the project.
+
 ---
 
 Each of these roles plays a vital part in delivering a high-quality Airbnb clone that meets user expectations and business objectives.
